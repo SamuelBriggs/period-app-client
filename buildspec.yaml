@@ -21,7 +21,7 @@ phases:
       - echo Build Phase
       - npm run build
 
-  artifacts:
+artifacts:
     files:
       - '*/'
     discard-path: no
