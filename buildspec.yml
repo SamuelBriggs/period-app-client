@@ -23,7 +23,7 @@ phases:
 
 artifacts:
     files:
-      - '*/'
+      - '**/*'
     discard-path: no
     base-directory: build
 #   post_build:
